@@ -1,0 +1,14 @@
+header
+{
+   align-items: center;
+   background-color: var(--vs-cor-fundo-cabecalho);
+   display: flex;
+   height: 70px;
+   padding: 0 20px;   
+}
+
+header h1
+{
+   color: var(--vs-cor-fonte-azul);
+   font-size: 24px;
+}

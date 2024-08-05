@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+:root
+{
+  --vs-cor-borda-cinza: gray;
+  
+  --vs-cor-fonte-azul: rgb(10, 10, 71);
+  --vs-cor-fonte-branca: white;
+  --vs-cor-fonte-cinza: rgb(83, 83, 83);
+  --vs-cor-fonte-preta: black;
+  
+  --vs-cor-fundo-botao: rgb(10, 10, 71);
+  --vs-cor-fundo-cabecalho: #F78B00;
+  --vs-cor-fundo-card: rgb(212, 211, 211);
+  --vs-cor-fundo-pagina: white;  
+}
+
+*
+{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+a, a:hover
+{
+  text-decoration: none;
+  color: unset;
+}
+
+html, body
+{
+  background-color: var(--vs-cor-fundo-pagina);
+}
+
+.vs-container
+{
+  max-width: 980px;
+  margin: 0 auto;
+  width: 100%;  
+}
