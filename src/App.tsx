@@ -1,12 +1,11 @@
-import Cabecalho from "./componentes/Cabecalho";
-import Header from "./componentes/Cabecalho";
+import Catalogo from "./rotas/Catalogo";
 
 
 function App()
 {
   return (
     <>
-      <Cabecalho/>    
+      <Catalogo/>          
     </>
   )
 }

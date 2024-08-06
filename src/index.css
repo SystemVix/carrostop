@@ -34,7 +34,7 @@ html, body
   background-color: var(--vs-cor-fundo-pagina);
 }
 
-.vs-container
+.vs-conteiner
 {
   max-width: 980px;
   margin: 0 auto;

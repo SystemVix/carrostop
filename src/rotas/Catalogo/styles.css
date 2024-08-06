@@ -1,0 +1,29 @@
+
+#vs-secao-catalogo
+{
+   padding: 40px 0;
+}
+
+.vs-conteiner-barra-busca
+{
+   
+   margin-bottom: 40px;
+}
+
+.vs-conteiner-cards-catalogo
+{
+   border: 1px solid blue;
+}
+
+.vs-principal-catalogo
+{
+   padding: 0 10px;
+}
+
+@media (min-width: 576px)
+{
+   .vs-principal-catalogo
+   {
+      padding: 0 20px;
+   }
+}

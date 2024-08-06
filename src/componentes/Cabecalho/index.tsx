@@ -2,10 +2,10 @@ import './styles.css';
 
 export default function Cabecalho()
 {
-   return(
+   return (
       <>
          <header>
-            <div className="vs-container">
+            <div className="vs-conteiner">
                <h1>Carros Top</h1>
             </div>            
          </header>
