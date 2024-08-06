@@ -1,0 +1,29 @@
+.vs-card
+{
+   align-items: center;
+   background-color: var(--vs-cor-fundo-card);
+   border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+   padding: 15px 20px;
+}
+
+.vs-card h3
+{
+   font-size: 18px;
+   margin-bottom: 14px;
+}
+
+.vs-card img
+{
+   margin-bottom: 8px;
+   width: 220px; 
+}
+
+.vs-card p
+{
+   color: var(--vs-cor-fonte-cinza);
+   font-size: 14px;
+   font-style: italic;
+   margin-bottom: 38px;
+}

@@ -12,7 +12,9 @@
 
 .vs-conteiner-cards-catalogo
 {
-   border: 1px solid blue;
+   display: grid;
+   grid-gap: 20px;
+   grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
 }
 
 .vs-principal-catalogo

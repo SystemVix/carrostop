@@ -1,0 +1,14 @@
+.vs-botao-comprar
+{
+   align-items: center;
+   background-color: var(--vs-cor-fundo-botao);
+   border-radius: 5px;
+   color: var(--vs-cor-fonte-branca);
+   display: flex;
+   font-size: 14px;
+   font-weight: 700;
+   height: 40px;
+   justify-content: center;
+   width: 100%;
+   text-transform: uppercase;
+}
